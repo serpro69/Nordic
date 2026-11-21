@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/EliverLara/Nordic#readme",
   "dependencies": {
-    "gulp": "^4.0.0",
+    "gulp": "^5.0.1",
     "gulp-exec": "^5.0.0"
   },
   "devDependencies": {
